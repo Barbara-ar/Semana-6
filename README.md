@@ -27,5 +27,4 @@ Este proyecto implementa un sistema de compra de ropa utilizando Programación O
    ```bash
    python SistemaCompraRopa.py
 # Semana-6
-# Semana-6
-# Semana-6
+
